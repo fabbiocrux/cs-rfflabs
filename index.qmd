@@ -1,6 +1,7 @@
 ---
 title: "Bienvenue au Comité Scientifique de RFF Labs"
 subtitle: "Bienvenue au Comité Scientifique de RFF Labs"
+format: html
 ---
 
 ![](figures/charte/banner_large_degrade1_Plan de travail 1.png)

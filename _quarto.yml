@@ -50,7 +50,11 @@ website:
 
         - section: "Les commus "    
 
-        - section: "CS Invite"    
+        - section: "GT Faire Genre"            
+
+        - section: "CS Invite"  
+
+
   page-navigation: true
   back-to-top-navigation: true
 
@@ -62,5 +66,9 @@ format:
   pdf:
     documentclass: book
 
+license: CC BY-SA
 editor: visual
 
+
+execute:
+  freeze: auto
