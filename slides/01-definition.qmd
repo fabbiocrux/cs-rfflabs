@@ -1,0 +1,14 @@
+---
+title: "Qu'est ce a fablab?"
+subtitle: "by CS -RFF"
+format:
+  revealjs:
+    slide-number: c/t
+---
+
+
+## What is a fablab ? {.center}
+
+## What kind of type of research can we do? {.center}
+
+## Thanks

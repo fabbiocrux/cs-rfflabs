@@ -1,0 +1,15 @@
+---
+title: "Qu'est ce que c'est un fablab?"
+subtitle: "definition"
+format:
+  html:
+    toc: false
+date: 06-Dec-2023
+---
+
+
+# General Presentation
+
+```{=html}
+<iframe width="100%" height="533px" style="border:2px solid #dee2e6;" src="../slides/01-definition.html"></iframe>
+```

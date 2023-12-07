@@ -1,0 +1,66 @@
+project:
+  type: website
+  output-dir: docs
+  preview: 
+    port: 4040
+
+
+website:
+  title: "CS - RFF"
+  site-url: ""
+  repo-url: "https://github.com/fabbiocrux/cs-rfflabs" 
+
+  search:
+    type: overlay  
+  page-footer:
+    left: |
+      Ecrit par:
+      [![](/figures/logos/logo-RFF.png){fig-alt="RFFLabs" width=65px}](https://rfflabs.fr/)
+    center:
+      - text: "CS - RFFLabs"
+
+  navbar:
+    background: light
+    logo: figures/logos/logo-RFF.png
+    logo-alt: "RFFlabs Logo"
+    left:
+      - href: index.qmd
+        text: Home
+    tools:
+      - icon: twitter
+        href: https://twitter.com/RFFLabs
+        text: RFF Twitter
+      - icon: github
+        href: https://github.com/fabbiocrux/cs-rfflabs
+        text: GitHub
+  sidebar:
+    - title: "Cours Magistraux"
+      style: "floating"
+      contents:
+        - section: "Purpose of CS RFF"  
+          contents:                
+            - chapters/00-mission.qmd
+            - chapters/01-ontologie.qmd
+
+        - section: "Fablab et Recherche"    
+          contents:                        
+            - chapters/02-definition.qmd
+
+        - section: "L'Ecologie"    
+
+        - section: "Les commus "    
+
+        - section: "CS Invite"    
+  page-navigation: true
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.scss
+    toc: true
+  pdf:
+    documentclass: book
+
+editor: visual
+

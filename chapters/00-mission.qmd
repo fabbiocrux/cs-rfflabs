@@ -1,0 +1,62 @@
+---
+title: "CS - Mission"
+subtitle: "Lettre de Mission"
+---
+
+# A quoi sert le Conseil Scientifique?
+
+
+Principalement, la mission du Conseil Scientifique est d’assurer l’interface entre le monde académique et les FabLabs français. Pour ce faire, il doit:
+
+- Asseoir et incarner la légitimité scientifique de RFF dans ses relations avec les mondes académiques et institutionnels : alimenter le réseau données et analyses sur lui-même, qu’elles proviennent de travaux internes ou externes et produire de la connaissance et des documents sur le réseau français des FabLabs, à destination de ses membres et des personnes et institutions extérieures au réseau intéressées par ces questions.
+
+- Aider à trouver des ressources ou des réponses pour les membres des Labs ou les équipes de Labs en projet sur des questions scientifiques.
+
+- Assurer l’interface entre les collectivités territoriales, les FabLabs et le monde académique, être en interaction rapprochée avec le CA, en lien direct avec les makerspaces non membres, les bureaux d’étude, les responsables de formation, les FabLabs universitaires français et étrangers, la Fab Fondation, le milieu universitaire français et étranger, les pouvoirs publics (à la demande du CA ou des FabLabs eux-mêmes), la presse, les syndicats (pour des formations, par exemple)
+
+- Tenir une veille sur les publications, les colloques, journées d’étude, appels à communication et à publications concernant le RFFLabs et plus largement les questions scientifique d’intérêt pour les membres du réseau. À terme, cet outil devra permettre de soumettre, d’analyser et de centraliser les propositions qui pourront émaner de FabLabs ou d’universités et de réseaux de chercheurs, presse, etc.
+
+- À terme, le rôle du Conseil Scientifique pourra être d’envisager la gestion et la parution d’une publication scientifique dont les modalités restent à déterminer - publication trimestrielle, semestrielle ou annuelle reprenant les points clé de la vie scientifique du réseau, ainsi que de contribuer à l’organisation, lors des rencontres annuelles du réseau (October Make, FabFest), de conférences scientifiques sur les thèmes présentant un intérêt actuel pour les membres du réseau.
+
+- Le Conseil Scientifique est chargé de la supervision du chantier périodique Livre Blanc visant à produire une représentation de l’état du réseau à l’instant T, tous les X ans (3? 5?)
+
+- Le Conseil Scientifique n’a pas pour mission de contrôler ou évaluer les offres en matière technique ou organisationnelle, par exemple la qualité des machines, des fournitures, ou des prestations des bureaux d’étude et les groupes de consultants ou formations (“FabManagement”) qui pourraient proposer leurs services aux FabLabs émergents : cette question reste sous la responsabilité de RFF. Plus généralement, les membres du Conseil scientifique n’ont aucun pouvoir mais seulement un rôle consultatif en matière de décisions techniques, politiques ou économiques.
+(Cette question et ce dossier seront  re-discutés en 2018 lors du prochain October Make.)
+
+
+# Qui constitue ce Conseil Scientifique ?
+
+- Les prérequis : sauf dérogation, les membres du CA doivent être docteurs et avoir présenté une thèse de doctorat en France ou à l’étranger ou justifier d’une expertise approfondie sur un des sujets couverts par l’aire de compétence et d’intérêt du Conseil Scientifique (sciences physiques, sciences de l’information et des systèmes complexes, sciences sociales)
+
+- Les candidatures sont traitées par les membres du Conseil Scientifique et sont soumises aux membres du CA pour approbation
+
+- Le nombre de membres du Conseil Scientifique doit être mesuré afin que les chercheurs soient opérationnels et puissent se coordonner efficacement. Jusqu’à 2020, le nombre de membres du Conseil Scientifique sera réduit, pour favoriser la constitution du fonctionnement du Conseil lui-même. Un élargissement graduel du nombre des membres sera ensuite envisagé. La structuration du Conseil Scientifique pourra évoluer en définissant, si besoin, différents statuts et fonctions parmi ses membres.
+
+- Durée du mandat : cinq ans minimum, durée de dix ans recommandée et renouvelable de façon illimitée
+
+- Conditions de démission : toutes les démissions pour raisons personnelles sont acceptées, après validation du CA (revoir le texte officiel et le reprendre)
+
+- Conditions d’expulsion : le Conseil Scientifique alerte le CA, qui prend une décision (en sollicitant l’AG en cas de besoin). Une expulsion peut être demandée en cas de faute grave (à préciser), abandon de poste ou manquement au règlement intérieur, abus de pouvoir, faux et usage de faux, conflits d’intérêt (à préciser)
+
+- Ne peuvent pas intégrer le Conseil Scientifique : des FabManagers et des acteurs militants et opérationnels du réseau, des membres du CA, des personnes mineures, personnes ayant commis des crimes,
+
+
+
+# Quel régime de fonctionnement ? Réunions, tâches et mode opératoire…
+
+- Le fonctionnement du Conseil Scientifique est défini par cette lettre de mission et par la charte éthique, l’ensemble constituant son règlement intérieur (adossé au règlement intérieur de RFFLabs), textes initialement validés en AG et soumis à révision si nécessaire par cette même procédure.
+
+- Tout amendement au texte qui définit les missions du Conseil Scientifique doit être validé par le CA de RFF et ne peut pas être déterminé sans lui.
+
+- Le Conseil Scientifique est composé de X membres et coordonné par une Équipe de Coordination. Cette équipe a pour tâche d’être en lien direct et efficace avec le CA et les membres actifs sont disponibles pour des points précis en fonction de leurs compétences et de leurs champs disciplinaires. Ils s’engagent à orienter les questions des membres du réseau ou de l’extérieur vers les membres du CS appropriés.
+
+- Les membres du Conseil Scientifique peuvent-ils faire du conseil ? Oui, mais en tant qu’individus et en leur nom propre, sans engager le Conseil Scientifique. Le Conseil Scientifique peut être consulté par le CA sur des questions de conseil ou sollicité pour présenter RFFLabs à ce titre. Les membres du Conseil Scientifique doivent veiller à éviter tout conflit d’intérêt en matière de vente de prestations de conseil à des acteurs membres du réseau ou extérieurs. Ce point doit faire l’objet d’une attention particulière du Conseil et du Conseil d’Administration. Lorsque les membres du CS s’engagent dans des activités de Conseil, ils se doivent de tenir les autres membres du CS et du CA informés de leur activité.
+
+- Le Conseil Scientifique se réunit deux fois par an minimum en plénière, et plus fréquemment en fonction des besoins. Il doit faire un rapport au CA et à l’AG de son activité sur l’année en AG ordinaire et doit également répondre aux questions des membres du réseau.
+
+- Un ou deux représentants du Conseil Scientifique peuvent participer au CA à la demande du CA ou sur demande express du Conseil Scientifique.
+
+- Le Conseil Scientifique doit se munir de tous les outils nécessaires à son bon fonctionnement : communication interne, externe et relations avec le CA.
+
+
+
